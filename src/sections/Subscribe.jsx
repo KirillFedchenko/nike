@@ -1,4 +1,4 @@
-const Subcribe = () => {
+const Subscribe = () => {
   return (
     <div>
       Subscribe
@@ -6,4 +6,4 @@ const Subcribe = () => {
   );
 };
 
-export default Subcribe;
+export default Subscribe;
